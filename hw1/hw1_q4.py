@@ -4,7 +4,7 @@ import numpy as np
 ################################################################################
 CSCI 633: Biologically-Inspired Intelligent Systems
 
-@author Evan_Lin <el9716>
+@author Evan_Lin
 
 Homework #1, Question 4
 ################################################################################
