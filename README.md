@@ -14,16 +14,8 @@ This repository demonstrates implementations of various nature‑inspired metahe
 
 ## 🚀 Getting Started
 
-Each assignment folder contains its own `README.md` with detailed instructions, prerequisites, and examples.  
-All code is written in **Python 3.8+** and requires:
-
-- `numpy`
-
-**Steps:**
-
-1. Navigate to an assignment folder.
-2. Install dependencies (see the folder’s `requirements.txt` or the instructions in its README).
-3. Run the main Python script as described in the folder’s “How to Run” section.
+Each assignment folder contains a report pdf and the algorithms mentioned in the homework.  
+All code is written in **Python 3.8+** and requires **numpy** as well.
 
 ## 📚 Course Context
 
